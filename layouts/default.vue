@@ -1,4 +1,5 @@
 <template>
+  <NuxtLink to="/use-fetch">useFetch</NuxtLink>
   <NuxtLink to="/">Home page</NuxtLink>
   <NuxtLink to="/counter">Counter page</NuxtLink>
   <NuxtLink to="/counter-pina">Counter pina page</NuxtLink>
